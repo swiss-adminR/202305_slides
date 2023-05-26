@@ -4,7 +4,7 @@ Slides of the [spring meetup 2023](https://www.meetup.com/de-DE/adminr/events/29
 **Wer braucht schon Python? Automatisierte Workflows mit R und Gitlab CI**  
 
 Felix Lorenz, Statistik Thurgau
-- Slides
+- [Slides](https://github.com/swiss-adminR/202305_slides/blob/main/r_und_gitlabci_felix_lorenz.pdf)
 
 **BFS: an R package to search and download data from the Swiss Federal Statistical Office**  
 
