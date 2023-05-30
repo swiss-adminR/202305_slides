@@ -10,4 +10,4 @@ Felix Lorenz, Statistik Thurgau
 
 Félix Luginbühl
 - Package: https://cran.r-project.org/web/packages/BFS/index.html
-- Slides
+- [Slides](https://github.com/swiss-adminR/202305_slides/blob/main/felixluginbuhl-bfs-package.pdf)
